@@ -4,7 +4,6 @@
   "description": "A nodejs server with mongodb for a chat messenging application",
   "main": "index.js",
   "scripts": {
-    "test": "",
     "start": "node index.js"
   },
   "author": "Solomon Asiedu",
